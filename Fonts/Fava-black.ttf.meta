@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c62a506c1c4db9c449876f31b2951010
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fava
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9a1e9381c7fa4a640982152e7541ba34, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
